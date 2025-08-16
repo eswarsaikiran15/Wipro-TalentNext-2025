@@ -31,11 +31,6 @@
 
 > This repository is a dedicated space for all the resources, coding solutions, and notes related to the **Wipro TalentNext 2025** program. The goal is to create a collaborative and comprehensive guide to help everyone succeed.
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJmZGVmcGNhaDFoN2FmbHR3Z2Nqem5xaG5qMmlpc3MxbWJzMWQ3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0lDiKsZEEb/giphy.gif" alt="Coding GIF" width="600"/>
-
-</div>
 
 ---
 
