@@ -1,8 +1,4 @@
 
-# Wipro-TalentNext-2025 🚀
-
-
-
 ---
 
 <div align="center">
@@ -11,7 +7,6 @@
 
 # 🚀 Wipro TalentNext 2025 🚀
 
-<a href="[https://git.io/typing-svg](https://git.io/typing-svg)"><img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=33FF33&center=true&width=435&lines=Solutions+%26+Resources;For+Wipro+TalentNext+2025;Happy+Coding!;By+Eswar+Sai+Kiran](https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D22%26pause%3D1000%26color%3D33FF33%26center%3Dtrue%26width%3D435%26lines%3DSolutions%2B%2526%2BResources%3BFor%2BWipro%2BTalentNext%2B2025%3BHappy%2BCoding!%3BBy%2BEswar%2BSai%2BKiran)" alt="Typing SVG" /></a>
 
 </div>
 
