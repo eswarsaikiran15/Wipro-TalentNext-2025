@@ -1,10 +1,4 @@
 
----
-
-<div align="center">
-
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RtaXo1OWVkaHN6eWh0emVmdzU5MzltdjFvd3M4dWp4eGp0N3FjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hDx80E/giphy.gif](https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RtaXo1OWVkaHN6eWh0emVmdzU5MzltdjFvd3M4dWp4eGp0N3FjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hDx80E/giphy.gif)" alt="logo" width="200" height="auto"/>
-
 # 🚀 Wipro TalentNext 2025 🚀
 
 
