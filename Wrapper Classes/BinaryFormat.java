@@ -12,3 +12,4 @@ public class BinaryFormat {
         sc.close();
     }
 }
+
